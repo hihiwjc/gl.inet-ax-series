@@ -1,5 +1,4 @@
 name: Delete older releases
-
 on:
   push:
     branches: [main]
