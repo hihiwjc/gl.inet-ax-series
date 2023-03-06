@@ -31,6 +31,7 @@ packages:
   - luci-app-gowebdav
   - luci-app-uugamebooster
   - luci-app-passwall
+  - luci-app-aria2
 
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
